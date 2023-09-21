@@ -3,10 +3,17 @@ import './cards.scss';
 
 export default function Card(props) {
 
+  let badgeText
+  if (props.openSpots === 0) {
+      badgeText = "SOLD OUT"
+  } else if (props.location === "Online") {
+      badgeText = "ONLINE"
+  }
+
   return (
     <>
       <div className="card col-sm-8 col-md-6 col-lg-3 mb-3 p-0">
-        <span className='booking-status position-absolute badge bg-light text-dark'>SOLD OUT</span>
+        {badgeText && <span className='booking-status position-absolute badge bg-light text-dark'>{badgeText}</span>}
         <img src={`../../public/images/${props.coverImg}`} className="card-img-top" alt="..." />
         <div className="card-body">
           <div className='card-stats d-flex align-items-center text-secondary'>
