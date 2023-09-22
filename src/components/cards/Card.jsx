@@ -4,7 +4,7 @@ import './cards.scss';
 export default function Card(props) {
   let badgeText
   if (props.item.openSpots === 0) {
-      badgeText = "SOLD OUT"
+      badgeText = "BOOKED"
   } else if (props.item.location === "Online") {
       badgeText = "ONLINE"
   }
@@ -22,7 +22,7 @@ export default function Card(props) {
             <span className="country">{props.item.location}</span>
           </div>
           <p className="card-text">{props.item.title}</p>
-          <p className="card-price-person"><strong>From {props.item.price}€ </strong><small className="text-secondary">/ person</small></p>
+          <p className="card-price-person"><small><strong>From {props.item.price}€ </strong></small><small className="text-secondary">/ night</small></p>
         </div>
       </a>
     </>
