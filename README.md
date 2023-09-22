@@ -11,6 +11,8 @@ styling it with the help of
   <li>Bootstrap 5</li>
   <li>Sass/Scss</li>
 </ul>
+<br>
+<br>
 
-<img width="265" alt="Bildschirmfoto 2023-09-22 um 11 04 19" src="https://github.com/kikarikiki/wherebnb/assets/68593523/546c83c3-c945-46c2-91b5-4b8786f579b1">
-<img width="371" alt="Bildschirmfoto 2023-09-22 um 11 03 28" src="https://github.com/kikarikiki/wherebnb/assets/68593523/7377a464-0708-431b-80ac-af31f4e4adcf">
+<img width="235" alt="wherebnb screenshot mobile" src="https://github.com/kikarikiki/wherebnb/assets/68593523/2a3aa17c-33b9-47f9-8fc6-e3658ddc3a10">&nbsp;&nbsp;
+<img width="370" alt="wherebnb screenshot tablet" src="https://github.com/kikarikiki/wherebnb/assets/68593523/6b237bb4-c8bd-49ea-a1ff-f32c06c5975b">
