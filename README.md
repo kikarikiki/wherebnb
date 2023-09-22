@@ -1,8 +1,18 @@
-# React + Vite
+# Wherebnb App - AirBnb Clone React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was created for learning and practising data-driven React.<br>
+I focused on learning about
+<ul>
+  <li>Props</li>
+  <li>Creating components from an array</li>
+</ul>
+styling it with the help of 
+<ul>
+  <li>Bootstrap 5</li>
+  <li>Sass/Scss</li>
+</ul>
+<br>
+<br>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="235" alt="wherebnb screenshot mobile" src="https://github.com/kikarikiki/wherebnb/assets/68593523/2a3aa17c-33b9-47f9-8fc6-e3658ddc3a10">&nbsp;&nbsp;
+<img width="370" alt="wherebnb screenshot tablet" src="https://github.com/kikarikiki/wherebnb/assets/68593523/6b237bb4-c8bd-49ea-a1ff-f32c06c5975b">
