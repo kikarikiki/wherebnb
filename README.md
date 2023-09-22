@@ -1,4 +1,4 @@
-# Wherebnb - AirBnb Clone Project
+# Wherebnb App - AirBnb Clone React Project
 
 This project was created for learning and practising data-driven React.<br>
 I focused on learning about
@@ -9,7 +9,7 @@ I focused on learning about
 styling it with the help of 
 <ul>
   <li>Bootstrap 5</li>
-  <li>Sass</li>
+  <li>Sass/Scss</li>
 </ul>
 
 <img width="265" alt="Bildschirmfoto 2023-09-22 um 11 04 19" src="https://github.com/kikarikiki/wherebnb/assets/68593523/546c83c3-c945-46c2-91b5-4b8786f579b1">
