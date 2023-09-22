@@ -9,7 +9,7 @@ export default function Header() {
       <nav className="navbar navbar-light bg-light navbar-header">
         <div className="container-fluid">
           <a className="navbar-brand d-flex align-items-end" href="#">
-            <img src="../../../src/assets/images/wherebnb-logo.png" alt="" height="30" className="d-inline-block align-text-top" />
+            <img src="../../../public/images/wherebnb-logo.png" alt="" height="30" className="d-inline-block align-text-top" />
             <span>wherebnb</span>
           </a>
         </div>
