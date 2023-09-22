@@ -6,10 +6,10 @@ import CardCaroussel from '../cards/CardCaroussel';
 
 export default function Home() {
 
-  // <Hero />
 
   return (
     <div className='container-fluid'>
+      <Hero />
       <CardCaroussel />
     </div>
   )

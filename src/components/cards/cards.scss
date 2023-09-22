@@ -3,6 +3,25 @@
   font-size: 0.8 rem !important;
 }
 
+.wrapper-cards {
+  __max-height: 300px;
+  display: flex;
+  overflow-x: auto;
+}
+
+.wrapper-cards::-webkit-scrollbar {
+  width: 0;
+}
+
+.wrapper-cards a {
+  text-decoration: none;
+}
+
+.wrapper-cards a.card {
+  min-width: 175px !important;
+  __height: 300px !important;
+}
+
 .booking-status {
   margin: 16px;
 }
