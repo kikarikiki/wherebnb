@@ -14,5 +14,5 @@ styling it with the help of
 <br>
 <br>
 
-<img width="235" alt="wherebnb screenshot mobile" src="https://github.com/kikarikiki/wherebnb/assets/68593523/2a3aa17c-33b9-47f9-8fc6-e3658ddc3a10">&nbsp;&nbsp;
-<img width="370" alt="wherebnb screenshot tablet" src="https://github.com/kikarikiki/wherebnb/assets/68593523/6b237bb4-c8bd-49ea-a1ff-f32c06c5975b">
+<img width="235" alt="image wherebnb-App mobile" src="https://github.com/kikarikiki/wherebnb/assets/68593523/2a3aa17c-33b9-47f9-8fc6-e3658ddc3a10">&nbsp;&nbsp;
+<img width="370" alt="image wherebnb-App tablet" src="https://github.com/kikarikiki/wherebnb/assets/68593523/6b237bb4-c8bd-49ea-a1ff-f32c06c5975b">
